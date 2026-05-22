@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local Workspace Downloaded Files
+ocr_texts/
+pdf_files/
+pdf_discovery_manifest.json
+.DS_Store

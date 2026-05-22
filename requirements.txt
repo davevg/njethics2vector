@@ -1,0 +1,6 @@
+PyMuPDF>=1.24
+psycopg2-binary>=2.9
+pgvector>=0.3
+requests>=2.31
+tqdm>=4.66
+beautifulsoup4>=4.12
